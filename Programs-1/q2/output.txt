@@ -1,0 +1,10 @@
+Enter The Number :
+-1
+The Number Should Be Greater Than 3
+
+Enter The Number :
+10
+Triangular Numbers from 3 to 10 :
+3
+6
+10
