@@ -1,0 +1,13 @@
+Enter a number :465
+456
+465
+546
+564
+645
+654
+
+Enter a number :-712
+Invalid Number
+
+Enter a number :960
+Invalid Number

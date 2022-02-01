@@ -1,0 +1,20 @@
+Write a program in Java to enter a natural number, where N>100 and N<1000,
+the natural number must not contain zeros. Print all the combinations of digits of
+the number including the number itself. Each new combination should appear on a
+new line. The program displays a message "Invalid Number", if N <100 or contains
+zeros.
+
+Sample Input: Enter a number: 465
+Sample Output:
+456
+465
+546
+564
+645
+654
+
+Sample Input: Enter a number: -712
+Sample Output: Invalid Number
+
+Sample Input: Enter a number: 960
+Sample Output: Invalid Number
