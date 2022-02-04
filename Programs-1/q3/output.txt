@@ -1,0 +1,7 @@
+Input:
+M = 100
+N = 11
+
+Output:
+The required number = 119
+Total number of digits = 3
