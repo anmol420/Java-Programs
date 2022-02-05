@@ -1,0 +1,8 @@
+Enter A String
+computer
+
+Alphabetical order:
+cemoprtu
+
+Filled String:
+cdefghijklmnopqrstu
