@@ -1,0 +1,1 @@
+WAP in JAVA to accept a String/word and display the same in alphabetical order of its letter.

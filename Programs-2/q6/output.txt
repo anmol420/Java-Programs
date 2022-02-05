@@ -1,0 +1,5 @@
+Enter A Sentence
+A Boy Is Sitting.
+
+Sentence After Case Inverse - 
+a bOY iS sITTING.

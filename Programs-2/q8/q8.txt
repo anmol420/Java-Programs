@@ -1,0 +1,2 @@
+WAP in JAVA to accept a sentence and replace the first letter of each word with ‘X’. Finally
+display the new sentence.

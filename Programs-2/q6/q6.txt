@@ -1,0 +1,2 @@
+WAP in JAVA to accept a sentence or a String in a mixed case and display the same in toggle
+case.[i.e. convert uppercase to lowercase and vice-versa]

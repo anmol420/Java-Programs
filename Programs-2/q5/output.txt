@@ -1,0 +1,7 @@
+Enter A Sentence
+The tree is the shelter for many birds
+
+Enter The Word To Be Searched
+the
+
+Word Is Present In The Sentence 2 times

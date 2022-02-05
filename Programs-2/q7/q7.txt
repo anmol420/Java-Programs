@@ -1,0 +1,6 @@
+WAP in JAVA to accept a word in lowercase and display the new word after removing all the
+repeated letters. 
+
+Sample input: applications
+
+Sample output: aplictons

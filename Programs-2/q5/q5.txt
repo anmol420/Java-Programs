@@ -1,0 +1,2 @@
+WAP in JAVA to accept a sentence and find the frequency of word ‘the’ in the given sentence.
+The word ‘the’ must not be a part of the given string.
