@@ -1,0 +1,2 @@
+WAP in JAVA to accept a character and check whether it is a letter or not. If it is a letter then
+change the case of the letter otherwise check either it is a digit or a special character.

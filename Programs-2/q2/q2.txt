@@ -1,0 +1,1 @@
+WAP to accept a word and check whether it is a palindrome or not.

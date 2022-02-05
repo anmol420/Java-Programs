@@ -1,0 +1,4 @@
+Enter A Word
+MAdAm
+The Word To Be Checked Is - madam
+The string is palindrome.
