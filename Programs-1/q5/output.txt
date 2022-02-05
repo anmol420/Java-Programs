@@ -1,0 +1,11 @@
+Enter A Number
+22344
+22344 is not a Bouncy Number.
+
+Enter A Number
+774410
+774410 is not a Bouncy Number.
+
+Enter A Number
+155349
+155349 is a Bouncy Number.

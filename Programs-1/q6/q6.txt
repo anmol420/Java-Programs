@@ -1,0 +1,12 @@
+Write a program in Java to accept a string. Arrange all the letters of the string
+in an alphabetical order. Now, insert the missing letters in the sorted string to
+complete all the letters between first and last characters of the string.
+
+Sample Input:
+computer
+
+Alphabetical order:
+cemoprtu
+
+Sample Output:
+cdefghijklmnopqrstu
