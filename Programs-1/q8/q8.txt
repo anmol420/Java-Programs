@@ -1,0 +1,16 @@
+Write a program to accept a set of n integers (where n > 0) in a single
+dimensional array. Arrange the elements of the array such that the lowest number
+appears in the centre of the array, next lower number in the right cell of the
+centre, next lower in the left cell of the centre and so on... . The process will stop when the highest number will set in its appropriate cell. Finally, display the
+array elements.
+
+Assume that the memory space is less. Hence, you don't need to create extra
+array for the aforesaid task.
+
+Example:
+
+Input: 1 2 3 4 5
+Output: 5 3 1 2 4
+
+Input: 11 12 31 14 5
+Output: 31 12 5 11 14

@@ -1,0 +1,8 @@
+Enter A String
+HISTORY
+
+Enter Another String
+SCIENCE
+
+Output :
+HEICSNTEOIRCYS

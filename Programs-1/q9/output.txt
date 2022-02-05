@@ -1,0 +1,38 @@
+Enter The Value Of m
+4
+Enter The Value Of n
+4
+
+Enter array elements
+Enter Row 1 :
+11
+16
+7
+4
+Enter Row 2 :
+8
+10
+9
+18
+Enter Row 3 :
+9
+8
+12
+15
+Enter Row 4 :
+14
+15
+13
+9
+
+Input Array:
+11      16      7       4
+8       10      9       18
+9       8       12      15
+14      15      13      9
+
+New Shifted Array:
+4       11      16      7
+18      8       10      9
+15      9       8       12
+9       14      15      13

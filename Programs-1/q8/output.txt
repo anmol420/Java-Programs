@@ -1,0 +1,11 @@
+Enter The Number Of Terms
+5
+
+Enter array elements:
+1
+2
+3
+4
+5
+
+5 3 1 2 4 

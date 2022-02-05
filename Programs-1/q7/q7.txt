@@ -1,0 +1,11 @@
+Write a program in Java to accept two strings. Display the new string by taking
+each character of the first string from left to right and of the second string from
+right to left. The letters should be taken alternatively from each string. Assume that
+the lengths of both the strings are same.
+
+Sample Input:
+String 1: HISTORY
+String 2: SCIENCE
+
+Sample Output:
+HEICSNTEOIRCYS
