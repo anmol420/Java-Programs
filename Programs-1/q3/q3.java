@@ -14,13 +14,8 @@ class q3 {
         int N = sc.nextInt();
 
         //checking eligibility
-        if (M < 100 || M > 10000) {
-            System.out.println("The Value Of M Must Be Between 100 And 10000");
-            return;
-        }
-        
-        if (N > 100) {
-            System.out.println("The Value Of N Must Be Less Than 100");
+        if (M < 100 || M > 10000 || N > 100) {
+            System.out.println("The Value Of M Must Be Between 100 And 1000\nThe Value Of N Must Be Less Than 100");
             return;
         }
 
