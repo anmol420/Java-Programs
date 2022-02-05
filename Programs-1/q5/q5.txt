@@ -1,0 +1,12 @@
+A number is said to Bouncy number if the digits of the number are unsorted.
+
+For example,
+22344 - It is not a Bouncy number because the digits are sorted in ascending
+order.
+774410 - It is not a Bouncy number because the digits are sorted in
+descending order.
+155349 - It is a Bouncy number because the digits are unsorted.
+A number below 100 can never be a Bouncy number.
+
+Write a program in java to accept a number. Check and display whether it is a
+Bouncy number or not.
