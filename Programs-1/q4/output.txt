@@ -1,0 +1,7 @@
+Enter The Number To Be Checked
+192
+192 Is A Fascinating Number
+
+Enter The Number To Be Checked
+224
+224 Is Not A Fascinating Number
