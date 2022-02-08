@@ -1,0 +1,9 @@
+Enter A Three Letter Word
+PKB
+
+PKB
+PBK
+KPB
+KBP
+BPK
+BKP

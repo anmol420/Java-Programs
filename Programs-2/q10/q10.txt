@@ -1,0 +1,2 @@
+WAP in JAVA to accept any three-letter word and display all the probable three-letter
+combinations. No letter should be repeated within the output.

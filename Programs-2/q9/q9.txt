@@ -1,0 +1,2 @@
+WAP in JAVA to accept a sentence in a mixed case and display the same in reversed order word
+wise.
